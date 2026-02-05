@@ -473,11 +473,3 @@ This project is released under the **MIT License**, making it free to use, modif
 This notebook is a concrete implementation of a **Data Science Agent** — an autonomous system capable of performing exploratory analysis with reasoning, structure, and accountability.
 
 By combining **LangGraph’s explicit control flow**, **Groq’s low-latency LLMs**, and **real Python execution**, the agent behaves like a junior-to-mid level data scientist: it understands requests, plans methodically, executes safely, and communicates insights clearly.
-
-This is not just automation.
-
-This is **Data Science as an Agentic System**.
-
-This notebook demonstrates a **production-grade pattern** for building intelligent data agents. By combining LangGraph's explicit control flow with Groq’s low-latency LLMs, the system achieves **trustworthy, explainable, and scalable EDA automation**.
-
-This is not just EDA — it is **EDA as an agentic system**.
